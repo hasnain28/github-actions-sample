@@ -34,3 +34,4 @@ jobs:
     - name: Output Vars
       run: |
         echo ${{ steps.generate_vars.outputs.image }}
+//demo line
